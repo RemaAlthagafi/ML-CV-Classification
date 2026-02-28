@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CV Classification using Machine Learning
 
 ## **Problem Statement**
@@ -46,3 +47,7 @@ This project automates the classification of resumes (CVs) into predefined job c
 
 ## **Conclusion**
 This project demonstrates that combining semantic embeddings with machine learning pipelines improves both classification accuracy and fairness in resume screening. Future work can focus on expanding datasets and exploring advanced fairness techniques to ensure a more equitable model.
+=======
+# ML-CV-Classification
+This project automates resume classification into job categories using machine learning.
+>>>>>>> 4792e1e565ecb2a70215932fce55871dc2722785
