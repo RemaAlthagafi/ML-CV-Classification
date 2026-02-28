@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CV Classification using Machine Learning
 
 ## **Problem Statement**
